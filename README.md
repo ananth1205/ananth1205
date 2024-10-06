@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Ananth M Prabhu] 👋
 
 I'm a [Your Profession/Role] with a passion for [Your Interests or Skills]. I love working on projects that [describe what you enjoy doing, e.g., solve real-world problems, enhance user experience, etc.]. 
 
@@ -17,7 +17,7 @@ I'm a [Your Profession/Role] with a passion for [Your Interests or Skills]. I lo
 - [Job Title/Position] at [Company Name]
 
 ### 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:ananthmprabhu2011@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
